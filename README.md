@@ -1,5 +1,5 @@
 # Sardor Muminov
-### Technical Leader & Full-Stack Engineer | 13+ Years Building Distributed Systems
+### Technical Leader & Full-Stack Engineer | 13 Years, 3 Months Building Distributed Systems
 
 Based in Korea | Available for International & Remote Opportunities
 
