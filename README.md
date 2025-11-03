@@ -5,9 +5,9 @@ Based in Korea | Available for International & Remote Opportunities
 
 ## About Me
 
-Full-stack engineer specializing in backend APIs, distributed systems, and platform engineering. I've spent 13+ years building scalable systems—from bioinformatics platforms processing 100,000+ weekly jobs to internal tooling supporting millions of concurrent players at Electronic Arts.
+Full-stack engineer specializing in backend APIs, distributed systems, and platform engineering. I have spent 13+ years building scalable systems, from bioinformatics platforms processing 100,000+ weekly jobs to internal tooling supporting millions of concurrent players at Electronic Arts.
 
-I architect solutions with Node.js and Python, design RESTful and GraphQL APIs, and create developer tools that make infrastructure manageable. Whether it's migrating monoliths to microservices or building CLI tools in Rust, I focus on systems that scale and teams that succeed.
+I architect solutions with Node.js and Python, design RESTful and GraphQL APIs, and create developer tools that make infrastructure manageable. Whether migrating monoliths to microservices or building CLI tools in Rust, I focus on systems that scale and teams that succeed.
 
 **Currently exploring**: Backend Engineering, Platform Engineering, and Full-Stack opportunities with companies building impactful products globally.
 
@@ -94,10 +94,10 @@ Ferghana Polytechnic Institute | Ferghana, Uzbekistan | 2003 - 2008
 
 ## Let's Connect
 
-I'm actively seeking Backend Engineering, Platform Engineering, and Full-Stack opportunities with innovative teams building global products. Open to remote work and international relocation.
+I am actively seeking Backend Engineering, Platform Engineering, and Full-Stack opportunities with companies building impactful products. Open to remote work and international relocation.
 
 **Email**: [smuminov@gmail.com](mailto:smuminov@gmail.com)
 **LinkedIn**: [linkedin.com/in/muminoff](https://linkedin.com/in/muminoff)
 **Location**: Suwon, Korea (F5 Permanent Resident)
 
-*Feel free to reach out if you're building something interesting or looking for an experienced engineer who can architect scalable systems and ship production code.*
+Contact me if you are looking for an experienced engineer who can architect scalable systems and deliver production code.
