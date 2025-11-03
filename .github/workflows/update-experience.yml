@@ -1,0 +1,56 @@
+name: Update Years of Experience
+
+on:
+  # Run on the 1st of every month at 00:00 UTC
+  schedule:
+    - cron: '0 0 1 * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Run on push to main (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'update_experience.py'
+      - '.github/workflows/update-experience.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Calculate and update experience years
+        run: python update_experience.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Check if there are changes
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Commit and push changes
+          git add README.md
+          git commit -m "Update years of experience
+
+          Automated update by GitHub Actions
+
+          🤖 Generated with GitHub Actions"
+          git push
