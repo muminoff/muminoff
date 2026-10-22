@@ -1,103 +1,81 @@
 # Sardor Muminov
-### Technical Leader & Full-Stack Engineer | 14 Years, 2 Months Building Distributed Systems
 
-Based in Korea | Available for International & Remote Opportunities
+**Backend and platform engineer** · 14 Years, 2 Months building production systems in Python and Node.js
 
-## About Me
+Suwon, Korea
 
-Full-stack engineer specializing in backend APIs, distributed systems, and platform engineering. I have spent 13+ years building scalable systems, from bioinformatics platforms processing 100,000+ weekly jobs to internal tooling supporting millions of concurrent players at Electronic Arts.
+## About
 
-I architect solutions with Node.js and Python, design RESTful and GraphQL APIs, and create developer tools that make infrastructure manageable. Whether migrating monoliths to microservices or building CLI tools in Rust, I focus on systems that scale and teams that succeed.
+I build backend services and the platform layer under them: APIs, task queues, deployment automation, and monitoring. I have worked in Python and Node.js since 2012, mostly on systems that other teams operate.
 
-**Currently exploring**: Backend Engineering, Platform Engineering, and Full-Stack opportunities with companies building impactful products globally.
+I prefer to write the service and the tools that keep it running.
 
-## Professional Experience
+## Experience
 
-### DevOps Engineer II | Electronic Arts
-**Seoul, Korea** | *May 2021 - May 2025*
+### DevOps Engineer II, Electronic Arts
 
-Built Python/Django internal tools and automation platforms for FIFA/FC infrastructure team supporting millions of concurrent players. Developed organization-wide CLI tool in Rust for operational audits across 6,000+ servers and created GCP Workflows for automated monitoring.
+*Seoul, Korea · May 2021 – May 2025*
 
-**Key contributions:**
-- Developed internal deployment automation platforms (Django, Python, Jython)
-- Built Rust CLI for operational audits across 6K+ servers
-- Created GCP Workflows for log-based alerting and monitoring
-- Audited 670+ services across GKE, CloudRun, and VM environments
-- Automated F5 load balancer migrations and legacy infrastructure removal
+I built internal tools and automation for the FIFA/FC infrastructure team. These systems support millions of concurrent players.
 
----
+- Built deployment automation platforms with Django, Python, and Jython.
+- Wrote a Rust CLI that audits 6,000+ servers. Operations teams use it across the organization.
+- Created GCP Workflows that alert on log events.
+- Audited 670+ services across GKE, Cloud Run, and VM environments.
+- Automated F5 load balancer migrations and removed legacy infrastructure.
 
-### Senior Software Engineer | Insilicogen
-**Yongin, Korea** | *July 2015 - April 2021*
+### Senior Software Engineer, Insilicogen
 
-Architected REST APIs and microservices for bioinformatics SaaS platform handling 100,000+ weekly analysis jobs. Built distributed task processing system using Django, Celery, and RabbitMQ, and developed React-based frontend applications.
+*Yongin, Korea · July 2015 – April 2021*
 
-**Key contributions:**
-- Migrated monolithic Django app to microservices (100x processing improvement)
-- Built distributed task processing with Celery and RabbitMQ
-- Developed real-time messaging system (1,000+ messages/hour)
-- Created Python data pipelines integrating PostgreSQL, MongoDB, Neo4j
-- Architected RESTful and GraphQL APIs on AWS infrastructure
+I designed REST APIs and microservices for a bioinformatics SaaS platform. The platform runs more than 100,000 analysis jobs each week.
 
----
+- Migrated a monolithic Django application to microservices. Processing improved by a factor of 100.
+- Built distributed task processing with Celery and RabbitMQ.
+- Built a real-time messaging system that handled 1,000+ messages per hour.
+- Wrote Python data pipelines that connect PostgreSQL, MongoDB, and Neo4j.
+- Designed REST and GraphQL APIs on AWS.
 
-### Senior Software Engineer | Hanbiro
-**Seoul, Korea** | *October 2013 - July 2015*
+### Senior Software Engineer, Hanbiro
 
-Built scalable backend APIs for enterprise CRM platform supporting 10,000+ concurrent users. Developed services with Node.js/Express.js and Python/Twisted backed by Cassandra, with Elasticsearch integration handling 5,000+ requests/minute.
+*Seoul, Korea · October 2013 – July 2015*
 
-**Key contributions:**
-- Built backend APIs with Node.js and Python/Twisted + Cassandra
-- Developed CRM REST APIs with Elasticsearch integration
-- Created monitoring dashboards using React and Flask
-- Automated deployment processes (Fabric, Ansible) reducing errors by 70%
+I built backend APIs for an enterprise CRM platform with 10,000+ concurrent users.
 
----
+- Built services with Node.js/Express and Python/Twisted on Cassandra.
+- Added Elasticsearch integration. The system handled 5,000+ requests per minute.
+- Built monitoring dashboards with React and Flask.
+- Automated deployments with Fabric and Ansible, which reduced deployment errors by 70%.
 
-### Software Engineer | Pspace Technology
-**Seongnam, Korea** | *August 2012 - October 2013*
+### Software Engineer, Pspace Technology
 
-Developed multi-tenant web application for cloud storage platform serving 500+ tenants. Built monitoring dashboards and performed load testing for distributed storage systems.
+*Seongnam, Korea · August 2012 – October 2013*
 
-**Key contributions:**
-- Developed multi-tenant web app (Java/JSP) for cloud storage
-- Built real-time monitoring dashboard (Python/Tornado)
-- Performed load testing and benchmarking for InfiniStor storage system
+I worked on a multi-tenant cloud storage product and the tools that measured it.
 
-## Technical Expertise
+- Built a multi-tenant web application (Java/JSP) for 500+ tenants.
+- Built a real-time monitoring dashboard with Python/Tornado.
+- Ran load tests and benchmarks for the InfiniStor storage system.
 
-**Languages & Runtimes**
-Node.js, Python, JavaScript/TypeScript, SQL, Bash, Rust, Java
+## Technical skills
 
-**Backend & APIs**
-Express.js, Nest.js, Django, FastAPI, Flask, Celery, REST APIs, GraphQL, Microservices
-
-**Frontend**
-React, Vue.js, HTML/CSS, Modern JavaScript (ES6+)
-
-**Databases**
-PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Neo4j
-
-**Cloud & Infrastructure**
-AWS (EC2, S3, RDS, Lambda), GCP (Workflows, Cloud Monitoring), Docker, Git
-
-**Core Competencies**
-API Design • System Architecture • Distributed Systems • Task Queues • Monitoring & Automation
+| Area | Tools |
+| --- | --- |
+| Languages | Node.js, Python, JavaScript/TypeScript, SQL, Bash, Rust, Java |
+| Backend and APIs | Express.js, Nest.js, Django, FastAPI, Flask, Celery, REST APIs, GraphQL, microservices |
+| Frontend | React, Vue.js, HTML/CSS, modern JavaScript (ES6+) |
+| Databases | PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Neo4j |
+| Cloud and infrastructure | AWS (EC2, S3, RDS, Lambda), GCP (Workflows, Cloud Monitoring), Docker, Git |
+| Core competencies | API design, system architecture, distributed systems, task queues, monitoring and automation |
 
 ## Education
 
-**Master of Science, Computer Science**
-Kookmin University | Seoul, Korea | 2010 - 2012
+| Degree | School | Years |
+| --- | --- | --- |
+| M.S., Computer Science | Kookmin University, Seoul, Korea | 2010 – 2012 |
+| B.S., Electrical Engineering | Ferghana Polytechnic Institute, Ferghana, Uzbekistan | 2003 – 2008 |
 
-**Bachelor of Science, Electrical Engineering**
-Ferghana Polytechnic Institute | Ferghana, Uzbekistan | 2003 - 2008
+## Contact
 
-## Let's Connect
-
-I am actively seeking Backend Engineering, Platform Engineering, and Full-Stack opportunities with companies building impactful products. Open to remote work and international relocation.
-
-**Email**: [smuminov@gmail.com](mailto:smuminov@gmail.com)
-**LinkedIn**: [linkedin.com/in/muminoff](https://linkedin.com/in/muminoff)
-**Location**: Suwon, Korea (F5 Permanent Resident)
-
-Contact me if you are looking for an experienced engineer who can architect scalable systems and deliver production code.
+Email: [smuminov@gmail.com](mailto:smuminov@gmail.com)  
+LinkedIn: [linkedin.com/in/muminoff](https://linkedin.com/in/muminoff)
