@@ -57,16 +57,16 @@ I worked on a multi-tenant cloud storage product and the tools that measured it.
 - Built a real-time monitoring dashboard with Python/Tornado.
 - Ran load tests and benchmarks for the InfiniStor storage system.
 
-## Technical skills
+## Technical Skills
 
-| Area | Tools |
+| Area | Technologies |
 | --- | --- |
-| Languages | Node.js, Python, JavaScript/TypeScript, SQL, Bash, Rust, Java |
-| Backend and APIs | Express.js, Nest.js, Django, FastAPI, Flask, Celery, REST APIs, GraphQL, microservices |
-| Frontend | React, Vue.js, HTML/CSS, modern JavaScript (ES6+) |
+| Languages | Python, JavaScript/TypeScript (ES6+), SQL, Bash, Rust |
+| Backend | Node.js, Express.js, Nest.js, Django, FastAPI, Flask, Celery, REST, GraphQL, microservices |
 | Databases | PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Neo4j |
 | Cloud and infrastructure | AWS (EC2, S3, RDS, Lambda), GCP (Workflows, Cloud Monitoring), Docker, Git |
-| Core competencies | API design, system architecture, distributed systems, task queues, monitoring and automation |
+| Frontend | React, Vue.js, HTML/CSS |
+| Practices | API design, system architecture, distributed systems, task queues, monitoring, automation |
 
 ## Education
 
