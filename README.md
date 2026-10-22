@@ -12,7 +12,7 @@ I prefer to write the service and the tools that keep it running.
 
 ## Experience
 
-### DevOps Engineer II, Electronic Arts
+### DevOps Software Engineer II, Platform Engineering, Electronic Arts
 
 *Seoul, Korea · May 2021 – May 2025*
 
