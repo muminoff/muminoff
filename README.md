@@ -1,6 +1,6 @@
 # Sardor Muminov
 
-**Backend and platform engineer** · 14 Years, 2 Months building production systems in Python and Node.js
+**Backend and platform engineer** · 14 Years, 3 Months building production systems in Python and Node.js
 
 Suwon, Korea
 
