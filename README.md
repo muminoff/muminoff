@@ -13,6 +13,16 @@ That is why I write the service and the tools that keep it running as one piece.
 
 ## Experience
 
+### Independent Software Consultant
+
+*Suwon, Korea · June 2025 – Present*
+
+I consult for early-stage startups and build their backends from scratch. I own the work from the first schema to the first deploy, and I run three to four engagements at a time.
+
+- Build backends from scratch for early-stage startups.
+- Set the system architecture, API design, and database schema for each engagement.
+- Set up CI/CD and the first engineering team practice, so the client keeps shipping after the engagement ends.
+
 ### DevOps Software Engineer II, Platform Engineering, Electronic Arts
 
 *Seoul, Korea · May 2021 – May 2025*
