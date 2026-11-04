@@ -7,9 +7,9 @@ Suwon, Korea · [Email](mailto:smuminov@gmail.com) · [LinkedIn](https://linkedi
 
 ## About
 
-I build backend services and the platform layer under them: APIs, task queues, deployment automation, and monitoring. I have worked in Python and Node.js since 2012, mostly on systems that other teams operate.
+I take systems from design through operation. Usually that means the API and the service behind it, then the queue, the deployment path, and the monitoring that keep it alive. I have worked this way in Python and Node.js since 2012, mostly on systems other teams inherit and must run without me.
 
-I prefer to write the service and the tools that keep it running.
+That is why I write the service and the tools that keep it running as one piece.
 
 ## Experience
 
@@ -75,8 +75,3 @@ I worked on a multi-tenant cloud storage product and the tools that measured it.
 | --- | --- | --- |
 | M.S., Computer Science | Kookmin University, Seoul, Korea | 2010 – 2012 |
 | B.S., Electrical Engineering | Ferghana Polytechnic Institute, Ferghana, Uzbekistan | 2003 – 2008 |
-
-## Contact
-
-Email: [smuminov@gmail.com](mailto:smuminov@gmail.com)  
-LinkedIn: [linkedin.com/in/muminoff](https://linkedin.com/in/muminoff)
