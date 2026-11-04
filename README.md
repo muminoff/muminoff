@@ -1,6 +1,8 @@
 # Sardor Muminov
 
-**Tech lead and software engineer.** 14 Years, 3 Months shipping backend
+## Tech lead and staff software engineer
+
+14 Years, 3 Months shipping backend
 services and APIs in Python and Node.js, plus the tooling that runs them.
 
 Suwon, Korea · [Email](mailto:smuminov@gmail.com) · [LinkedIn](https://linkedin.com/in/muminoff)
